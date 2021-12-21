@@ -1,12 +1,10 @@
 {
-"data" :
-{ 
-"type" : "something",
-"field" : "something_2"
-}
-"attributes" :
-{
-"attribute_1" : 1,
-"attribute_2" : 2
-}
+"data" :{ 
+	"type" : "something",
+	"field" : "something_2"
+	},
+"attributes" :{
+	"attribute_1" : 1,
+	"attribute_2" : 2
+	}
 }
